@@ -1,0 +1,6 @@
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\SQLDB\bin\Debug\SQLDB.dll
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\SQLDB\bin\Debug\SQLDB.pdb
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\SQLDB\obj\Debug\SQLDB.csprojAssemblyReference.cache
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\SQLDB\obj\Debug\SQLDB.csproj.CoreCompileInputs.cache
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\SQLDB\obj\Debug\SQLDB.dll
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\SQLDB\obj\Debug\SQLDB.pdb

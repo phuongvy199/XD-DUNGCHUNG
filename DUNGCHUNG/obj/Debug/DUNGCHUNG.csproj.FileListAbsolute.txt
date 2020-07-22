@@ -1,0 +1,10 @@
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\DUNGCHUNG\obj\Debug\DUNGCHUNG.csprojAssemblyReference.cache
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\DUNGCHUNG\obj\Debug\DUNGCHUNG.csproj.CoreCompileInputs.cache
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\DUNGCHUNG\bin\Debug\DUNGCHUNG.exe.config
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\DUNGCHUNG\bin\Debug\DUNGCHUNG.exe
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\DUNGCHUNG\bin\Debug\DUNGCHUNG.pdb
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\DUNGCHUNG\bin\Debug\SQLDB.dll
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\DUNGCHUNG\bin\Debug\SQLDB.pdb
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\DUNGCHUNG\obj\Debug\DUNGCHUNG.csproj.CopyComplete
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\DUNGCHUNG\obj\Debug\DUNGCHUNG.exe
+C:\Users\caoph\OneDrive\Máy tính\SQLDB\DUNGCHUNG\DUNGCHUNG\obj\Debug\DUNGCHUNG.pdb
